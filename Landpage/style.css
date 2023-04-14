@@ -1,0 +1,17 @@
+.TamanhoEAltura
+{
+    height: 600px;
+    width: 300px;
+}
+.logo
+{
+    float: left;
+}
+.Outros
+{
+    float: left;
+}
+*
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
